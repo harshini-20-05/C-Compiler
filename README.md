@@ -26,7 +26,7 @@ This repository contains the implementation of a **C Compiler** as part of a cou
 - **Feature to be implemented:** Whenever a constant is encountered, it will be pushed into the **Constant Table**, and the recently encountered **identifier** will have its **value field** updated in the **Symbol Table**.
   - This feature is designed to ensure that constants are correctly stored and linked with the corresponding variables or identifiers.
 
-##**Features**
+## **Features**
 - Symbol Table is made using array (not hash function).
 - Constant table uses hash function to insert values
 - Scope is implemented using stack
@@ -34,7 +34,7 @@ This repository contains the implementation of a **C Compiler** as part of a cou
 - Typechecking in function calls is also implemented
 
   
-##**Areas of Improvement**
+## **Areas of Improvement**
 - Checking array dimentionality while defining.
 - only structure declarations are included.
 - adding the constants properly into constant table and symbol table.
