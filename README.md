@@ -1,6 +1,6 @@
 # C Compiler Course Project
 
-This repository contains the implementation of a **C Compiler** as part of a course project. The project covers various phases of a compiler including **lexical analysis**, **parsing**, **semantic analysis**, and **symbol table management**. The goal of this project is to develop a simple compiler that can read and process basic C code and perform fundamental tasks such as tokenization, syntax checking, semantic analysis, and symbol table updates.
+This repository contains the implementation of a **C Compiler** as part of a course project. The project covers various phases of a compiler including **lexical analysis**, **parsing**, **semantic analysis**, **intermediate code generation** and **symbol table management**. The goal of this project is to develop a simple compiler that can read and process basic C code and perform fundamental tasks such as tokenization, syntax checking, semantic analysis, and symbol table updates.
 
 ## Important terms
 
